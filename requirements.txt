@@ -1,0 +1,6 @@
+mrjob
+pyspark
+streamlit
+pandas
+numpy
+matplotlib
