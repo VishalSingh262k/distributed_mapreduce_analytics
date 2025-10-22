@@ -1,5 +1,8 @@
 This project implements a distributed data analytics pipeline for large-scale wine quality feature analysis. The system integrates MapReduce batch processing, Spark-based distributed computation, synthetic big data generation, and a production-style Streamlit monitoring dashboard. The pipeline demonstrates real-world data engineering workflow design including distributed aggregation, feature ranking, and visualization layers.
 
+You can access the Streamlit dashboard at:
+https://distrubutedanalysis.streamlit.app/
+
 ## Project Structure
 
 - `data/`: Contains input and output datasets.
